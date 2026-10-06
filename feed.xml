@@ -1,4 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads target="Avito.ru" formatVersion="3">
-</Ads>
+  <Ad>
+    <Id>valeriya-model-free-moscow-001</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
+    <Specialty>Татуировки</Specialty>
+    <ClientGender>
+      <Option>Женщины</Option>
+      <Option>Мужчины</Option>
+    </ClientGender>
+    <Place>В салоне</Place>
+    <SpecialistGender>Женщина</SpecialistGender>
+    <Title>Тату бесплатно. Внимательный тату мастер</Title>
+    <Description><![CDATA[Меня зовут Валерия. Я тату-мастер и ищу моделей для пополнения портфолио.
 
+У меня есть опыт в татуировке, я ответственная и аккуратная. Очень люблю свою работу и внимательно отношусь к каждой идее. Перед сеансом мы спокойно обсудим рисунок, размер и место нанесения, чтобы результат вам понравился.
+
+Моя работа для модели бесплатна. Вы оплачиваете только одноразовые расходные материалы. Точную сумму заранее сообщу в чате Авито — до согласования записи.
+
+Работаю стерильно, использую одноразовые материалы, помогу определиться с эскизом и расскажу, как ухаживать за татуировкой после сеанса. Если делаете тату впервые — всё объясню и не буду торопить.
+
+Напишите в чат Авито и пришлите идею или референс. Я отвечу, подходит ли сюжет для модельного проекта, и заранее обозначу стоимость расходных материалов.
+
+
+Ключевые запросы: тату мастер, татуировка, модель на тату, бесплатная тату, женский тату мастер, эскиз тату, тату Москва, тату салон, мини тату, графика тату, аниме тату, цветочная тату, первая татуировка, индивидуальный эскиз, тату в салоне]]></Description>
+    <Address>Москва, Большой Златоустинский переулок, 3/5с1</Address>
+    <!-- По прямому разрешению владельца Price, StartingPrice и PriceList не передаются: работа заявлена как бесплатная. -->
+    <Images>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001/01-cover-valeriya.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001/02-red-floral-sleeve.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001/03-red-black-character.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001/04-blackwork-character.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001/05-linework-portrait.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001/06-gun-anime-forearm.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001/07-split-face-green-eyes.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001/08-two-character-calf.png"/>
+    </Images>
+  </Ad>
+</Ads>
