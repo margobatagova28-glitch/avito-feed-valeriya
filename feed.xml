@@ -161,4 +161,66 @@
       <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/10-multi-face-girl.png"/>
     </Images>
   </Ad>
+  <Ad>
+    <Id>valeriya-mini-tattoos-moscow-005</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
+    <Specialty>Татуировки</Specialty>
+    <ClientGender>
+      <Option>Женщины</Option>
+      <Option>Мужчины</Option>
+    </ClientGender>
+    <Place>В салоне</Place>
+    <SpecialistGender>Женщина</SpecialistGender>
+    <Title>Тату Китай-Город. Мини тату индивидуальный эскизом</Title>
+    <Description><![CDATA[Я Лена, тату-мастер. Перед сеансом уточняю размер, размещение и детали будущего рисунка. Можно выбрать направление по фотографиям или прислать собственную идею: подготовлю вариант с учётом формы тела и того, как тонкие линии будут читаться после заживления.
+
+Мини-татуировка подходит, когда хочется небольшого выразительного рисунка без перегруженной композиции. В галерее собраны работы с грибами, глазами, сердцами, цветами и персонажами. Такие сюжеты хорошо смотрятся на предплечье, плече, голени и других компактных зонах.
+
+До записи согласуем макет и итоговую сумму в переписке Авито.
+
+Принимаю недалеко от метро Китай-город. Использую одноразовые иглы и расходники, рабочие поверхности закрываю защитными материалами. По завершении расскажу об уходе и отвечу на вопросы во время заживления.
+
+В первом сообщении отправьте картинку или коротко опишите задумку, укажите место нанесения и желаемый размер в сантиметрах. По этим данным предложу подходящую композицию и рассчитаю работу.
+
+
+Ключевые запросы: мини тату Москва, маленькая татуировка, тату мастер мини тату, тату глаз, тату гриб, тату сердце, тату вишня, тату цветок, тату кот, тату дотворк, тату лайнворк, тату на руку, тату на предплечье, тату на ногу, тонкая татуировка, женский тату мастер, тату Китай-город]]></Description>
+    <Address>Москва, Большой Златоустинский переулок, 3/5с1</Address>
+    <Price>3000</Price>
+    <StartingPrice>Да</StartingPrice>
+    <PriceList>
+      <Service><ServiceName>Татуировки</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Чёрно-белая татуировка</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Цветная татуировка</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Реалистичная татуировка</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле графики</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле минимализма</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле скетча</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле блэкворк</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле акварели</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле неотрадишнл</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле олдскул</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в японском стиле</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Флористическая татуировка</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Мини-татуировка</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка среднего размера</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Большая татуировка</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Перекрытие старых татуировок</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Коррекция старых татуировок</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Перекрытие шрамов</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Разработка индивидуальных эскизов татуировки</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+    </PriceList>
+    <Images>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/01-cover-lena.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/02-eye-mushroom.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/03-abstract-eye.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/04-abstract-heart-small.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/05-abstract-heart.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/06-flowers-geometry.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/07-candy-cat.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/08-heart-cherries.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/09-heart-mushroom.png"/>
+    </Images>
+  </Ad>
 </Ads>
