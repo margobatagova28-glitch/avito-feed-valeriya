@@ -100,4 +100,65 @@
       <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/10-mood-switch.png"/>
     </Images>
   </Ad>
+  <Ad>
+    <Id>valeriya-anime-sketches-moscow-004</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
+    <Specialty>Татуировки</Specialty>
+    <ClientGender>
+      <Option>Женщины</Option>
+      <Option>Мужчины</Option>
+    </ClientGender>
+    <Place>В салоне</Place>
+    <SpecialistGender>Женщина</SpecialistGender>
+    <Title>Тату мастер. Аниме эскиз в графике</Title>
+    <Description><![CDATA[Для портфолио собираю коллекцию татуировок с героями манги, духами, драконами и фантазийными животными. В галерее десять чёрно-белых идей: выберите номер или пришлите собственный референс. Рисунок переработаю под анатомию, нужный масштаб и участок кожи; макет согласуем заранее.
+
+Меня зовут Лена. Оплата моей работы не требуется: модель оплачивает только одноразовые материалы. Сколько потребуется именно для вашего проекта, напишу в переписке до бронирования.
+
+Кабинет находится по адресу станция Китай-город. Расходники вскрываются при вас, поверхности защищаются барьерной плёнкой, инструменты подготавливаются индивидуально. Темп подбираем комфортный; при необходимости останавливаемся на отдых. В конце вы получите рекомендации по заживлению и сможете задать вопросы после визита.
+
+Чтобы рассчитать проект, отправьте три пункта: номер картинки или референс, желаемую зону, ориентировочную длину в сантиметрах. Также сообщите, что в сюжете нельзя менять — лицо, позу, символ или характер штриховки.
+
+
+Ключевые запросы: аниме тату Москва, тату мастер аниме, эскиз тату аниме, тату манга, японская графика тату, чёрно-белое аниме тату, тату персонаж, тату с драконом, тату с волком, тату с кошкой, тату демон, тату самурай, тату на предплечье, тату на бедре, женский тату мастер, тату Китай-город]]></Description>
+    <Address>Москва, Большой Златоустинский переулок, 3/5с1</Address>
+    <Price>1500</Price>
+    <StartingPrice>Да</StartingPrice>
+    <PriceList>
+      <Service><ServiceName>Татуировки</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Чёрно-белая татуировка</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Цветная татуировка</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Реалистичная татуировка</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле графики</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле минимализма</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле скетча</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле блэкворк</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле акварели</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле неотрадишнл</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле олдскул</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в японском стиле</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Флористическая татуировка</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Мини-татуировка</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка среднего размера</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Большая татуировка</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Перекрытие старых татуировок</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Коррекция старых татуировок</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Перекрытие шрамов</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Разработка индивидуальных эскизов татуировки</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+    </PriceList>
+    <Images>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/01-cover-heart-faces.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/02-horned-warrior.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/03-swordswoman.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/04-girl-dragon-flowers.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/05-wolf-warrior.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/06-cat-knight.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/07-flower-cat.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/08-armored-warrior.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/09-girl-dragon.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/10-multi-face-girl.png"/>
+    </Images>
+  </Ad>
 </Ads>
