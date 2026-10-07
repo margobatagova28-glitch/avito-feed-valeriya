@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Ads target="Avito.ru" formatVersion="3">
   <Ad>
     <Id>valeriya-model-free-moscow-001</Id>
@@ -28,15 +28,15 @@
     <Address>Москва, Большой Златоустинский переулок, 3/5с1</Address>
     <!-- По прямому разрешению владельца Price, StartingPrice и PriceList не передаются: работа заявлена как бесплатная. -->
     <Images>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001/01-cover-valeriya.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001-sketches-v2/02-floral-anime.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001-sketches-v2/03-anime-woman.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001-sketches-v2/04-split-face.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001-sketches-v2/05-birds-anime.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001-sketches-v2/06-eye-frame.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001-sketches-v2/07-lucky-cat.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001-sketches-v2/08-fox-anime.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001-sketches-v2/09-anime-duo.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001/01-cover-valeriya.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001-sketches-v2/02-floral-anime.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001-sketches-v2/03-anime-woman.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001-sketches-v2/04-split-face.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001-sketches-v2/05-birds-anime.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001-sketches-v2/06-eye-frame.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001-sketches-v2/07-lucky-cat.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001-sketches-v2/08-fox-anime.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-model-free-001-sketches-v2/09-anime-duo.png" />
     </Images>
   </Ad>
   <Ad>
@@ -88,16 +88,16 @@
       <Service><ServiceName>Разработка индивидуальных эскизов татуировки</ServiceName><ServicePrice>2000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
     </PriceList>
     <Images>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/01-cover-jester-card-v2.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/01-cover-classical-woman.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/03-winged-woman.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/04-bird-profile.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/05-lips-smoke.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/06-heart-faces.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/07-fragmented-heart.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/08-cracked-vase.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/09-broken-mirror.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/10-mood-switch.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/01-cover-jester-card-v2.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/01-cover-classical-woman.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/03-winged-woman.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/04-bird-profile.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/05-lips-smoke.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/06-heart-faces.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/07-fragmented-heart.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/08-cracked-vase.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/09-broken-mirror.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-graphic-sketches-003-v1/10-mood-switch.png" />
     </Images>
   </Ad>
   <Ad>
@@ -149,16 +149,16 @@
       <Service><ServiceName>Разработка индивидуальных эскизов татуировки</ServiceName><ServicePrice>1500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
     </PriceList>
     <Images>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/01-cover-heart-faces.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/02-horned-warrior.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/03-swordswoman.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/04-girl-dragon-flowers.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/05-wolf-warrior.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/06-cat-knight.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/07-flower-cat.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/08-armored-warrior.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/09-girl-dragon.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/10-multi-face-girl.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/01-cover-heart-faces.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/02-horned-warrior.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/03-swordswoman.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/04-girl-dragon-flowers.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/05-wolf-warrior.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/06-cat-knight.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/07-flower-cat.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/08-armored-warrior.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/09-girl-dragon.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-anime-sketches-004-v1/10-multi-face-girl.png" />
     </Images>
   </Ad>
   <Ad>
@@ -212,15 +212,71 @@
       <Service><ServiceName>Разработка индивидуальных эскизов татуировки</ServiceName><ServicePrice>3000</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
     </PriceList>
     <Images>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/01-cover-lena.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/02-eye-mushroom.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/03-abstract-eye.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/04-abstract-heart-small.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/05-abstract-heart.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/06-flowers-geometry.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/07-candy-cat.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/08-heart-cherries.png"/>
-      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/09-heart-mushroom.png"/>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/01-cover-lena.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/02-eye-mushroom.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/03-abstract-eye.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/04-abstract-heart-small.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/05-abstract-heart.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/06-flowers-geometry.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/07-candy-cat.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/08-heart-cherries.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/valeriya-mini-tattoos-005-v1/09-heart-mushroom.png" />
     </Images>
   </Ad>
-</Ads>
+<Ad>
+    <Id>valeriya-lesya-anime-graphics-model-moscow-006</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>Тату, пирсинг</ServiceSubtype>
+    <Specialty>Татуировки</Specialty>
+    <ClientGender>
+      <Option>Женщины</Option>
+      <Option>Мужчины</Option>
+    </ClientGender>
+    <Place>В салоне</Place>
+    <SpecialistGender>Женщина</SpecialistGender>
+    <Title>Ищу модель на тату. Оплата расходников. Опыт есть</Title>
+    <Description><![CDATA[Меня зовут Леся, я тату-мастер с опытом. Ищу моделей на татуировки. В приоритете два направления — графика и аниме. Также готова рассмотреть ваши идеи и постараюсь создать индивидуальный эскиз специально под вас.
+
+В галерее слева показана визуализация эскиза на коже, справа — сам рисунок. Можно выбрать представленный вариант или прислать собственную идею. Перед сеансом адаптирую композицию под выбранное место, размер и особенности тела.
+
+До записи согласуем макет и все детали в переписке Авито.
+
+Использую одноразовые иглы и расходные материалы. После сеанса подробно расскажу об уходе за татуировкой. В первом сообщении пришлите понравившийся эскиз или референс, укажите желаемый размер в сантиметрах и место нанесения.
+
+
+Ключевые запросы: модель на тату, тату Москва, тату Китай-город, тату мастер, аниме тату, графическая татуировка, тату персонаж, индивидуальный эскиз тату, тату портрет, тату бабочка, тату глаз, тату сердце, тату на руку, тату на предплечье, тату на плечо, чёрно-белая татуировка, женский тату мастер]]></Description>
+    <Address>Москва, Большой Златоустинский переулок, 6с1</Address>
+    <Price>2500</Price>
+    <StartingPrice>Да</StartingPrice>
+    <PriceList>
+      <Service><ServiceName>Татуировки</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Чёрно-белая татуировка</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Цветная татуировка</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Реалистичная татуировка</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле графики</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле минимализма</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле скетча</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле блэкворк</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле акварели</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле неотрадишнл</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в стиле олдскул</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка в японском стиле</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Флористическая татуировка</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Мини-татуировка</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Татуировка среднего размера</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Большая татуировка</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Перекрытие старых татуировок</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Коррекция старых татуировок</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Перекрытие шрамов</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+      <Service><ServiceName>Разработка индивидуальных эскизов татуировки</ServiceName><ServicePrice>2500</ServicePrice><ServiceStartingPrice>Да</ServiceStartingPrice><ServicePriceType>за услугу</ServicePriceType></Service>
+    </PriceList>
+    <Images>
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/lesya-model-anime-graphics-006-v1/01-double-face-collage.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/lesya-model-anime-graphics-006-v1/02-heart-anime-collage.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/lesya-model-anime-graphics-006-v1/03-koi-collage.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/lesya-model-anime-graphics-006-v1/04-distorted-face-collage.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/lesya-model-anime-graphics-006-v1/05-monstera-collage.png" />
+      <Image url="https://margobatagova28-glitch.github.io/avito-feed-valeriya/photos/lesya-model-anime-graphics-006-v1/06-anime-butterflies-collage.png" />
+    </Images>
+  </Ad></Ads>
